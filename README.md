@@ -29,3 +29,5 @@ also by asking questions and seeing projects from other courses that existed at 
 For a long period, I studied simultaneously with my work in another area,
 but now I want and will dedicate myself fully to my studies and my development as a developer.
 </pre>
+
+![Imdubitat GitHub stats](https://github-readme-stats.vercel.app/api?username=imdubitat&show_icons=true&theme=radical)
