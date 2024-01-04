@@ -30,4 +30,4 @@ For a long period, I studied simultaneously with my work in another area,
 but now I want and will dedicate myself fully to my studies and my development as a developer.
 </pre>
 
-![Imdubitat GitHub stats](https://github-readme-stats.vercel.app/api?username=imdubitat&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdubitat)](https://github.com/imdubitat/github-readme-stats)
