@@ -6,7 +6,7 @@ I hope I can count on your collaboration and also be able to collaborate through
 <h2>👨🏻‍💻 About me:</h2>
 <pre><b>Profission:</b> Student
 <b>Technical degree:</b> Industrial Automation and IT maintenance and support.
-<b>Graduation:</b> Second semester in Systems Analysis and Development.
+<b>Graduation:</b> Fourth semester in Systems Analysis and Development.
 <b>Hobbies:</b> Music, games and sports</pre>
 
 <h2>🧰 Languages and tools:</h2>
